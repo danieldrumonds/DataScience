@@ -4,7 +4,7 @@ Lista de projetos:
 
 - Empresa de Telecom - Churn de 26% [[Acessar]](https://colab.research.google.com/drive/10mBTYcx773tJ7eeB1JBSNgEn0xAVN3Z5#scrollTo=h5pKNlveqFNd)
 - Previsão de Vendas com Orçamento de Marketing [[Acessar]](https://colab.research.google.com/drive/15vaN5ZjF4NNfmb9CLG-x5URmcFG9YIjM#scrollTo=Twjgkf3lNjdo)
-- 
+- Automação Web e Busca de Informações com Python
 - 
 - 
 ---
