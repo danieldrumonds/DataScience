@@ -6,7 +6,7 @@ Lista de projetos:
 - Previsão de Vendas com Orçamento de Marketing [[Acessar]](https://colab.research.google.com/drive/15vaN5ZjF4NNfmb9CLG-x5URmcFG9YIjM#scrollTo=Twjgkf3lNjdo)
 - Automação Web e Busca de Informações com Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Automa%C3%A7%C3%A3o%20Web%20(Selenium).ipynb)
 - Aulas curso Python - Hashtag Treinamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Aulas%20-%20Python%20(Hashtag%20Treinamentos).ipynb)
-- 
+- Aulas curso Python para Análise de Dados 3.0 - DSA [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Python_para_An%C3%A1lise_de_Dados_3.0_DSA.ipynb)
 ---
 ### Sobre mim:
 
