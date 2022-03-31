@@ -8,7 +8,11 @@ Lista de projetos:
 
 ## Cursos:
 - Curso Python - Hashtag Treinamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Aulas%20-%20Python%20(Hashtag%20Treinamentos).ipynb)
-- Curso Python para Análise de Dados 3.0 - DSA [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Python_para_An%C3%A1lise_de_Dados_3.0_DSA.ipynb)
+
+- Curso Python para Análise de Dados 3.0 - DSA
+. Python Fundamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/1_Python_para_An%C3%A1lise_de_Dados_3.0_DSA.ipynb)
+. SQL [[Acessar]]()
+. TensorFlow, Machine Learning, Deep Learning e Web Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/3_TensorFlow_ML_DL_WebScraping_DSA.ipynb)
 ---
 ### Sobre mim:
 
