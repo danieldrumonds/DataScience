@@ -11,7 +11,7 @@ Lista de projetos:
 
 - Curso Python para Análise de Dados 3.0 - DSA<br />
 . Python Fundamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_1_Python_para_An%C3%A1lise_de_Dados_3.0.ipynb)<br />
-. SQL [[Acessar]]()<br />
+. SQL [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_2_SQL.ipynb)<br />
 . TensorFlow, Machine Learning e Web Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_3_TensorFlow_ML_WebScraping.ipynb)<br />
 . Deep Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_4_Deep_Learning.ipynb)
 
