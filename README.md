@@ -7,13 +7,17 @@ Lista de projetos:
 - Automação Web e Busca de Informações com Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Automa%C3%A7%C3%A3o%20Web%20(Selenium).ipynb)
 
 ## Cursos:
-- Curso Python - Hashtag Treinamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Aulas%20-%20Python%20(Hashtag%20Treinamentos).ipynb)
+- Curso de Python Online - 57h - Hashtag Treinamentos<br />
+. Python Completo [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Aulas%20-%20Python%20(Hashtag%20Treinamentos).ipynb)
 
-- Curso Python para Análise de Dados 3.0 - DSA<br />
+- Curso Python para Análise de Dados 3.0 - 60h - DSA<br />
 . Python Fundamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_1_Python_para_An%C3%A1lise_de_Dados_3.0.ipynb)<br />
 . SQL [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_2_SQL.ipynb)<br />
 . TensorFlow, Machine Learning e Web Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_3_TensorFlow_ML_WebScraping.ipynb)<br />
 . Deep Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_4_Deep_Learning.ipynb)
+
+- Python para Análise de Dados - 12h - Data Viking<br />
+. Programação Python [[Acessar]]()
 
 ---
 ### Sobre mim:
