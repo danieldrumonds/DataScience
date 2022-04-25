@@ -17,7 +17,7 @@ Lista de projetos:
 . Deep Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_4_Deep_Learning.ipynb)
 
 - Python para Análise de Dados - 12h - Data Viking<br />
-. Programação Python [[Acessar]]()
+. Programação Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DataViking_Programa%C3%A7%C3%A3o_Python_.ipynb)
 
 ---
 ### Sobre mim:
