@@ -9,14 +9,14 @@ Lista de projetos:
 ## Cursos:
 - Python Impressionador - 57h - Hashtag Treinamentos<br />
 . Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_1_Python.ipynb)<br />
-. Pandas, Integrações e APIs
-. SQL
-. Web-Scraping
-. Python em Executável exe
-. Projeto: Automação de Processo
-. Projeto: Automação Web
-. Projeto: Data Science - Airbnb
-. Deploy: Projeto Data Science - Airbnb
+. Pandas, Integrações e APIs<br />
+. SQL<br />
+. Web-Scraping<br />
+. Python em Executável exe<br />
+. Projeto: Automação de Processo<br />
+. Projeto: Automação Web<br />
+. Projeto: Data Science - Airbnb<br />
+. Deploy: Projeto Data Science - Airbnb<br />
 . Tkinter
 
 - Python para Análise de Dados 3.0 - 60h - DSA<br />
