@@ -11,7 +11,7 @@ Lista de projetos:
 . Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_1_Python.ipynb)<br />
 . Pandas, Integrações e APIs<br />
 . SQL<br />
-. Web-Scraping<br />
+. Web-Scraping[[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_4_Web-Scraping.ipynb)<br />
 . Python em Executável exe<br />
 . Projeto: Automação de Processo<br />
 . Projeto: Automação Web<br />
