@@ -15,7 +15,7 @@ Lista de projetos:
 . Python em Executável exe<br />
 . Projeto: Automação de Processo<br />
 . Projeto: Automação Web<br />
-. Projeto: Data Science - Airbnb<br />
+. Projeto: Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_8_Projeto-Airbnb.ipynb)<br />
 . Deploy: Projeto Data Science - Airbnb<br />
 . Tkinter
 
