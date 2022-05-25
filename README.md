@@ -12,7 +12,7 @@ Lista de projetos:
 . Pandas, Integrações e APIs<br />
 . SQL<br />
 . Web-Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_4_Web-Scraping.ipynb)<br />
-. Python em Executável exe<br />
+. Python em Executável exe [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_5_Python-Executavel_EXE.ipynb)<br />
 . Projeto: Automação de Processo<br />
 . Projeto: Automação Web<br />
 . Projeto: Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_8_Projeto-Airbnb.ipynb)<br />
