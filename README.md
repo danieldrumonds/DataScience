@@ -12,9 +12,9 @@ Lista de projetos:
   - Data Science do Zero - 210h<br />
     . Estatística Aplicada [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_07_Estatistica.ipynb)<br />
     . Machine Learning<br />
-      _ KNN - Reg. Linear - Reg. Logística [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_KNN_Reg.Linear_Reg.Logistica.ipynb)<br />
-      _ SVM - K-Means - Naive Bayes [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_SVM_K-Means_Naive-Bayes.ipynb)<br />
-      _ Árvore de Decisão - Random Forest [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_Arv.Decisao_RandomForest.ipynb)<br />
+      _ KNN, Reg. Linear e Reg. Logística [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_KNN_Reg.Linear_Reg.Logistica.ipynb)<br />
+      _ SVM, K-Means e Naive Bayes [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_SVM_K-Means_Naive-Bayes.ipynb)<br />
+      _ Árvore de Decisão e Random Forest [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_Arv.Decisao_RandomForest.ipynb)<br />
     . Machine Learning em Produção [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_10_ML_em_Producao.ipynb)<br />
 
 
