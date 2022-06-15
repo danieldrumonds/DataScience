@@ -8,8 +8,8 @@ Lista de projetos:
 
 ## Cursos:
 
-- Formação Cientista de Dados - Stack Academy<br />
-  - Data Science do Zero - 210h<br />
+- Formação Cientista de Dados - 210h - Stack Academy<br />
+  - Data Science do Zero - 100h<br />
     . Estatística Aplicada [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_07_Estatistica.ipynb)<br />
     . Machine Learning<br />
       _ KNN, Reg. Linear e Reg. Logística [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_KNN_Reg.Linear_Reg.Logistica.ipynb)<br />
