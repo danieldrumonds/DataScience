@@ -7,26 +7,38 @@ Lista de projetos:
 - Automação Web e Busca de Informações com Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Automa%C3%A7%C3%A3o%20Web%20(Selenium).ipynb)
 
 ## Cursos:
-- Python Impressionador - 57h - Hashtag Treinamentos<br />
-. Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_1_Python.ipynb)<br />
-. Pandas, Integrações e APIs [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_2_Pandas_Integracoes_APIs.ipynb)<br />
-. SQL<br />
-. Web-Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_4_Web-Scraping.ipynb)<br />
-. Python em Executável exe [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_5_Python-Executavel_EXE.ipynb)<br />
-. Projeto: Automação de Processo [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_6_Projeto-Automacao-Processo.ipynb)<br />
-. Projeto: Automação Web [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_7_Projeto-Automacao-Web.ipynb)<br />
-. Projeto: Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_8_Projeto-Airbnb.ipynb)<br />
-. Deploy: Projeto Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_9_Projeto-Airbnb_Deploy.ipynb)<br />
-. Tkinter
+- Formação Cientista de Dados - Stack Academy<br />
+  - Data Science do Zero - 210h<br />
+    . Estatística Aplicada [[Acessar]]()<br />
+    . Machine Learning [[Acessar]]()<br />
+    . Machine Learning em Produção [[Acessar]]()<br />
 
-- Python para Análise de Dados 3.0 - 60h - DSA<br />
-. Python Fundamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_1_Python_para_An%C3%A1lise_de_Dados_3.0.ipynb)<br />
-. SQL [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_2_SQL.ipynb)<br />
-. TensorFlow, Machine Learning e Web Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_3_TensorFlow_ML_WebScraping.ipynb)<br />
-. Deep Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_4_Deep_Learning.ipynb)
+- Formação Cientista de Dados - 410h - DSA<br />
+  - Big Data Real-Time Analytics com Python e Spark - 64h<br />
+   . Manipulação de Dados [[Acessar]]()<br />
+   . Machine Learning [[Acessar]]()<br />
+   . Spark [[Acessar]]()<br />
+
+- Python Impressionador - 86h - Hashtag Treinamentos<br />
+  . Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_1_Python.ipynb)<br />
+  . Pandas, Integrações e APIs [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_2_Pandas_Integracoes_APIs.ipynb)<br />
+  . SQL<br />
+  . Web-Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_4_Web-Scraping.ipynb)<br />
+  . Python em Executável exe [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_5_Python-Executavel_EXE.ipynb)<br />
+  . Projeto: Automação de Processo [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_6_Projeto-Automacao-Processo.ipynb)<br />
+  . Projeto: Automação Web [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_7_Projeto-Automacao-Web.ipynb)<br />
+  . Projeto: Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_8_Projeto-Airbnb.ipynb)<br />
+  . Deploy: Projeto Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_9_Projeto-Airbnb_Deploy.ipynb)<br />
+  . Tkinter
+
+- Python Fundamentos para Análise de Dados 3.0 - 60h - DSA<br />
+  . Python Fundamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_1_Python_para_An%C3%A1lise_de_Dados_3.0.ipynb)<br />
+  . SQL [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_2_SQL.ipynb)<br />
+  . TensorFlow, Machine Learning e Web Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_3_TensorFlow_ML_WebScraping.ipynb)<br />
+  . Deep Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_4_Deep_Learning.ipynb)
 
 - Python para Análise de Dados - 12h - Data Viking<br />
-. Programação Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DataViking_Programa%C3%A7%C3%A3o_Python_.ipynb)
+  . Programação Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DataViking_Programa%C3%A7%C3%A3o_Python_.ipynb)
 
 ---
 ### Sobre mim:
