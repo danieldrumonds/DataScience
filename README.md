@@ -9,15 +9,18 @@ Lista de projetos:
 ## Cursos:
 - Formação Cientista de Dados - Stack Academy<br />
   - Data Science do Zero - 210h<br />
-    . Estatística Aplicada [[Acessar]]()<br />
-    . Machine Learning [[Acessar]]()<br />
-    . Machine Learning em Produção [[Acessar]]()<br />
+    . Estatística Aplicada [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_07_Estatistica.ipynb)<br />
+    . Machine Learning<br />
+      . KNN - Reg. Linear - Reg. Logística [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_KNN_Reg.Linear_Reg.Logistica.ipynb)<br />
+      . SVM - K-Means - Naive Bayes [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_SVM_K-Means_Naive-Bayes.ipynb)<br />
+      . Árvore de Decisão - Random Forest [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_Arv.Decisao_RandomForest.ipynb)<br />
+    . Machine Learning em Produção [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_10_ML_em_Producao.ipynb)<br />
 
 - Formação Cientista de Dados - 410h - DSA<br />
   - Big Data Real-Time Analytics com Python e Spark - 64h<br />
-   . Manipulação de Dados [[Acessar]]()<br />
-   . Machine Learning [[Acessar]]()<br />
-   . Spark [[Acessar]]()<br />
+   . Manipulação de Dados [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_Python_Spark_1_Manipulacao_Dados.ipynb)<br />
+   . Machine Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_Python_Spark_2_Machine_Learning.ipynb)<br />
+   . Spark [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_Python_Spark_3_Spark.ipynb)<br />
 
 - Python Impressionador - 86h - Hashtag Treinamentos<br />
   . Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_1_Python.ipynb)<br />
@@ -29,7 +32,7 @@ Lista de projetos:
   . Projeto: Automação Web [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_7_Projeto-Automacao-Web.ipynb)<br />
   . Projeto: Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_8_Projeto-Airbnb.ipynb)<br />
   . Deploy: Projeto Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_9_Projeto-Airbnb_Deploy.ipynb)<br />
-  . Tkinter
+  . Tkinter [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_10_Tkinter.ipynb)<br />
 
 - Python Fundamentos para Análise de Dados 3.0 - 60h - DSA<br />
   . Python Fundamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_1_Python_para_An%C3%A1lise_de_Dados_3.0.ipynb)<br />
