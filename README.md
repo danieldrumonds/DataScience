@@ -7,24 +7,23 @@ Lista de projetos:
 - Automação Web e Busca de Informações com Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Automa%C3%A7%C3%A3o%20Web%20(Selenium).ipynb)
 
 ## Cursos:
-<br />
+
 - Formação Cientista de Dados - Stack Academy<br />
   - Data Science do Zero - 210h<br />
     . Estatística Aplicada [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_07_Estatistica.ipynb)<br />
     . Machine Learning<br />
-          _ KNN - Reg. Linear - Reg. Logística [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_KNN_Reg.Linear_Reg.Logistica.ipynb)<br />
-          _ SVM - K-Means - Naive Bayes [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_SVM_K-Means_Naive-Bayes.ipynb)<br />
-          _ Árvore de Decisão - Random Forest [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_Arv.Decisao_RandomForest.ipynb)<br />
+      _ KNN - Reg. Linear - Reg. Logística [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_KNN_Reg.Linear_Reg.Logistica.ipynb)<br />
+      _ SVM - K-Means - Naive Bayes [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_SVM_K-Means_Naive-Bayes.ipynb)<br />
+      _ Árvore de Decisão - Random Forest [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_Arv.Decisao_RandomForest.ipynb)<br />
     . Machine Learning em Produção [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_10_ML_em_Producao.ipynb)<br />
-<br />
-<br />
+
+
 - Formação Cientista de Dados - 410h - DSA<br />
   - Big Data Real-Time Analytics com Python e Spark - 64h<br />
    . Manipulação de Dados [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_Python_Spark_1_Manipulacao_Dados.ipynb)<br />
    . Machine Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_Python_Spark_2_Machine_Learning.ipynb)<br />
    . Spark [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_Python_Spark_3_Spark.ipynb)<br />
-<br />
-<br />
+
 - Python Impressionador - 86h - Hashtag Treinamentos<br />
   . Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_1_Python.ipynb)<br />
   . Pandas, Integrações e APIs [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_2_Pandas_Integracoes_APIs.ipynb)<br />
@@ -36,23 +35,21 @@ Lista de projetos:
   . Projeto: Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_8_Projeto-Airbnb.ipynb)<br />
   . Deploy: Projeto Data Science - Airbnb [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_9_Projeto-Airbnb_Deploy.ipynb)<br />
   . Tkinter [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_10_Tkinter.ipynb)<br />
-<br />
-<br />
+
 - Python Fundamentos para Análise de Dados 3.0 - 60h - DSA<br />
   . Python Fundamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_1_Python_para_An%C3%A1lise_de_Dados_3.0.ipynb)<br />
   . SQL [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_2_SQL.ipynb)<br />
   . TensorFlow, Machine Learning e Web Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_3_TensorFlow_ML_WebScraping.ipynb)<br />
   . Deep Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_4_Deep_Learning.ipynb)
-<br />
-<br />
+
 - Python para Análise de Dados - 12h - Data Viking<br />
   . Programação Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DataViking_Programa%C3%A7%C3%A3o_Python_.ipynb)
-<br />
+
 ---
 ### Sobre mim:
-<br />
+
 * Graduação em Engenharia Mecânica pela Unileste-MG.
 * Mestrado em Engenharia Mecânica e Tecnologia de Materiais pelo CEFET-RJ.
 * MBA em Gestão de Projetos pela USP.
-<br />
+
 Linkedin: https://www.linkedin.com/in/drumondsantos/
