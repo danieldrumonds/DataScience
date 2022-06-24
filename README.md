@@ -26,7 +26,7 @@ Lista de projetos:
 - Python Impressionador - 86h - Hashtag Treinamentos<br />
   . Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_1_Python.ipynb)<br />
   . Pandas, Integrações e APIs [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_2_Pandas_Integracoes_APIs.ipynb)<br />
-  . SQL<br />
+  . SQL [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_3_SQL.ipynb)<br />
   . Web-Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_4_Web-Scraping.ipynb)<br />
   . Python em Executável exe [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_5_Python-Executavel_EXE.ipynb)<br />
   . Projeto: Automação de Processo [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/HashtagTreinamentos_6_Projeto-Automacao-Processo.ipynb)<br />
