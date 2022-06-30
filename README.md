@@ -19,7 +19,9 @@ Lista de projetos:
 
 - Formação Cientista de Dados - 410h - DSA<br />
   - Big Data Analytics com R e Microsoft Azure Machine Learning - 108h<br />
-   . Manipulação de Dados [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_R_Azure_1_Manipulacao_Dados.ipynb)<br />
+   . R Fundamentos [[Acessar]]()<br />
+   . Manipulação de Arquivos TXT, CSV, Excel e BD SQL [[Acessar]]()<br />
+   . Manipulação de Dados [[Acessar]]()<br />
 
   - Big Data Real-Time Analytics com Python e Spark - 64h<br />
    . Manipulação de Dados [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_Python_Spark_1_Manipulacao_Dados.ipynb)<br />
