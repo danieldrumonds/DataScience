@@ -48,10 +48,15 @@ Lista de projetos:
   . Python Fundamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_1_Python_para_An%C3%A1lise_de_Dados_3.0.ipynb)<br />
   . SQL [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_2_SQL.ipynb)<br />
   . TensorFlow, Machine Learning e Web Scraping [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_3_TensorFlow_ML_WebScraping.ipynb)<br />
-  . Deep Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_4_Deep_Learning.ipynb)
+  . Deep Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_4_Deep_Learning.ipynb)<br />
+
+- Python para Data Science e Machine Learning - 28h - ASIMOV Academy<br />
+  . Python Starter [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/ASIMOV_Python_DS_ML_1_Starter.ipynb)<br />
+  . Análise de Dados com Pandas e Matplotlib [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/ASIMOV_Python_DS_ML_2_Pandas_Matplotlib.ipynb)<br />
+  . Data Science e Machine Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/ASIMOV_Python_DS_ML_3_ML_AI.ipynb)<br />
 
 - Python para Análise de Dados - 12h - Data Viking<br />
-  . Programação Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DataViking_Programa%C3%A7%C3%A3o_Python_.ipynb)
+  . Programação Python [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DataViking_Programa%C3%A7%C3%A3o_Python_.ipynb)<br />
 
 ---
 ### Sobre mim:
