@@ -10,18 +10,22 @@ Lista de projetos:
 
 - Formação Cientista de Dados - 210h - Stack Academy<br />
   - Data Science do Zero - 100h<br />
+    . Python para Análise de Dados [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_04_Python_Analise_Dados.ipynb)<br />
+    . Visualização de Dados: Matplotlib e Seaborn [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_06_Visualizacao_Matplotlib_Seaborn.ipynb)<br />
+    . Visualização de Dados: Plotly [[Acessar]]() FALTA<br />
     . Estatística Aplicada [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_07_Estatistica.ipynb)<br />
+    . Mineração de Textos e Natural Language Processing [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_08_Mineracao_Textos_NLTK.ipynb)<br />
     . Machine Learning: KNN, Reg. Linear e Reg. Logística [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_KNN_Reg.Linear_Reg.Logistica.ipynb)<br />
     . Machine Learning: SVM, K-Means e Naive Bayes [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_SVM_K-Means_Naive-Bayes.ipynb)<br />
     . Machine Learning: Árvore de Decisão e Random Forest [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_Arv.Decisao_RandomForest.ipynb)<br />
     . Machine Learning em Produção [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_10_ML_em_Producao.ipynb)<br />
-
+    . Visão Computacional e Deep Learning [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_12_Visao_Comput_Deep_Learning.ipynb)<br />
 
 - Formação Cientista de Dados - 410h - DSA<br />
   - Big Data Analytics com R e Microsoft Azure Machine Learning - 108h<br />
    . R Fundamentos [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_R_Azure_1_R-Fundamentos.ipynb)<br />
    . Manipulação de Arquivos TXT, CSV, Excel e BD SQL [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_R_Azure_2_Arquivos_TXT_CSV_Excel_BD_SQL.ipynb)<br />
-   . Manipulação de Dados [[Acessar]]()<br />
+   . Manipulação de Dados [[Acessar]]() FALTA<br />
 
   - Big Data Real-Time Analytics com Python e Spark - 64h<br />
    . Manipulação de Dados [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/DSA_Big_Data_Python_Spark_1_Manipulacao_Dados.ipynb)<br />
