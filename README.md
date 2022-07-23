@@ -12,7 +12,7 @@ Lista de projetos:
   - Data Science do Zero - 100h<br />
     . Python para Análise de Dados [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_04_Python_Analise_Dados.ipynb)<br />
     . Visualização de Dados: Matplotlib e Seaborn [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_06_Visualizacao_Matplotlib_Seaborn.ipynb)<br />
-    . Visualização de Dados: Plotly [[Acessar]]() FALTA<br />
+    . Visualização de Dados: Plotly [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_06_Visualizacao_Plotly.ipynb)<br />
     . Estatística Aplicada [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_07_Estatistica.ipynb)<br />
     . Mineração de Textos e Natural Language Processing [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_08_Mineracao_Textos_NLTK.ipynb)<br />
     . Machine Learning: KNN, Reg. Linear e Reg. Logística [[Acessar]](https://github.com/danieldrumonds/DataScience/blob/main/Stack-Academy_DS_09_ML_KNN_Reg.Linear_Reg.Logistica.ipynb)<br />
